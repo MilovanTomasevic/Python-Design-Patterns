@@ -3,7 +3,7 @@ Consider the quadratic equation and its canonical solution - [wiki](https://en.w
 
 ax^{2}+bx+c=0
 
-![](https://en.wikipedia.org/wiki/Quadratic_equation#/media/File:Quadratic_formula.svg)
+![](https://miprofe.com/wp-content/uploads/2020/05/roots_quadratic_equation.jpg)
 
 
 The part b^2-4*a*c is called the discriminant. Suppose we want to provide an API with two different strategies for calculating the discriminant:

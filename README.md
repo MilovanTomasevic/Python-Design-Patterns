@@ -148,6 +148,6 @@
 
 - **MT** - [milovantomasevic.com](https://milovantomasevic.com)
 
-#### Certificate of Completion – Udemy
+- Certificate of Completion – Udemy - [See credential](https://www.udemy.com/certificate/UC-c9139435-41e7-4038-aa8b-1a2573b5de98/)
 
 ![Certificate of Completion – Udemy](/cert/cert.jpg)

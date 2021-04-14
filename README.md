@@ -142,7 +142,7 @@
 
 ## Awknowledgements
 
-- Dmitri Nesteruk's course "Design Patterns in Python" on Udemy.com
+- Course work and notes from Udemy course by Dmitri Nesteruk.
 
 ## Author
 
